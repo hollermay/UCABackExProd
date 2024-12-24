@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/d623fe98-9d50-4c1e-80a0-3abb0414a4f6)
+
+
 # Inspira
 
 Inspira is a full-stack web application designed to help developers manage and create project templates. With features like JWT-based authentication and a robust CRUD interface, it streamlines template management, including .gitignore, README, and package.json. The platform offers both user and admin functionalities, with an accessible admin dashboard for managing templates.
